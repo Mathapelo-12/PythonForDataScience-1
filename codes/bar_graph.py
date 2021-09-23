@@ -1,10 +1,10 @@
 import matplotlib.pyplot as plt
  
 # x-coordinates of left sides of bars 
-left = [1, 2, 3, 4, 5]
+left = [1, 2, 3, 4, 5,7,8,9,10]
  
 # heights of bars
-height = [10, 24, 36, 40, 5]
+height = [10, 24, 36, 40, 5,9,29,35,19,20]
  
 # labels for bars
 tick_label = ['one', 'two', 'three', 'four', 'five']
